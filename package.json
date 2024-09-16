@@ -2,7 +2,7 @@
   "name": "piedrapapeltijera",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://danielurbanoluna.github.io/piedrapapeltijera/build",
+  "homepage": "http://danielurbanoluna.github.io/piedrapapeltijera/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/piedrapapeltijera/build/static/css/main.b5baf14d.css",
+    "main.js": "/piedrapapeltijera/build/static/js/main.06a5d7be.js",
+    "index.html": "/piedrapapeltijera/build/index.html",
+    "main.b5baf14d.css.map": "/piedrapapeltijera/build/static/css/main.b5baf14d.css.map",
+    "main.06a5d7be.js.map": "/piedrapapeltijera/build/static/js/main.06a5d7be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5baf14d.css",
+    "static/js/main.06a5d7be.js"
+  ]
+}
