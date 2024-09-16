@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# 🌟 Mi Juego de Piedra Papel o Tijeras
+[https://danielurbanoluna.github.io/piedrapapeltijera/build/]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Deployed App](https://img.shields.io/badge/App-Online-brightgreen)]([https://enlace-a-tu-app-desplegada.com](https://danielurbanoluna.github.io/06_proyecto_pelis/build/))
+[![React](https://img.shields.io/badge/React-v17.0.2-blue)](https://reactjs.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-## Available Scripts
+## 🚀 Descripción
+Para usar la aplicación, escribe tu nombre en el campo que lo requiere, después selecciona el número de partidas y a cada partida clica el botón jugar y la opción (piedra, papel o tijera) que quieres jugar.
 
-In the project directory, you can run:
+Piedra papel tijera es una aplicación desarrollada con React. Este proyecto ha sido diseñado con el objetivo de seguir aprendiendo sobre como utilizar React **creando componentes, reutilizarlos todas las veces que se desee** agilizando asi el desarrollo frontend y hacerlo responsive para que se adapte a todos los dispositivos.
 
-### `npm start`
+El desarrollo de esta aplicación me ha permitido profundizar en las tecnologías frontend más actuales, incluyendo React, Hooks, y React Router, además de prácticas de desarrollo moderno como testeo, CI/CD, despliegue en github, etc..
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖥️ Características Principales
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Interfaz Intuitiva:** Diseño limpio y fácil de usar.
+- **Altamente Responsive:** Optimizada para diferentes dispositivos y tamaños de pantalla.
+- **Estado Local:** Gestión del estado con `useState` y manejo de efectos secundarios con `useEffect`.
+- **Routing Dinámico:** Navegación fluida y sin interrupciones.
+- **Archivos de código con JavaScript**
+- **HTML y CSS para la estructura y estilos**
 
-### `npm test`
+## 🔗 [Enlace a la Aplicación Desplegada](https://danielurbanoluna.github.io/piedrapapeltijera/build/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Puedes ver la aplicación en funcionamiento aquí: [https://danielurbanoluna.github.io/06_proyecto_pelis/build/]
 
-### `npm run build`
+## 🛠️ Tecnologías Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend:**
+  - [React](https://reactjs.org/)
+  - [React Router](https://reactrouter.com/)
+  - [Axios](https://axios-http.com/)
+  - [Styled Components/Tailwind CSS/Sass/etc.] 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Otros:**
+  - [Jest](https://jestjs.io/) para testeo
+  - [Docker](https://www.docker.com/) para contenedores
+  - [CI/CD Tool] para despliegue automatizado
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📄 Instalación y Configuración
 
-### `npm run eject`
+Si deseas clonar y ejecutar este proyecto localmente, sigue estos pasos:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/tu-usuario/nombre-del-repo.git
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Navega al directorio del proyecto:
+    ```bash
+    cd nombre-del-repo
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Instala las dependencias:
+    ```bash
+    npm install
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Ejecuta la aplicación:
+    ```bash
+    npm start
+    ```
 
-## Learn More
+La aplicación debería estar corriendo en [https://danielurbanoluna.github.io/06_proyecto_pelis/build/].
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
